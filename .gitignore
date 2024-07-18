@@ -1,0 +1,6 @@
+session-store.db
+.DS_Store
+node_modules
+session-store.db
+db/*.sqlite3
+lib/users.sql
