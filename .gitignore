@@ -4,3 +4,4 @@ node_modules
 session-store.db
 db/*.sqlite3
 lib/users.sql
+.env
